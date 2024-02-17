@@ -109,10 +109,7 @@ p{    margin:0;
 
 
 .link{
-/*     bottom: 0; */
-    color:#4e5172;
-    /* justify-content: center; */
-    
+    color:#4e5172;     
     align-items: center;
     position: absolute;
 }
